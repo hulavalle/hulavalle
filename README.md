@@ -1,19 +1,7 @@
 # Hola! I'm Hugo 👋  
-
-Thanks for stopping by!  
-
-## 🚀 Quick facts  
-- Full Stack Marketer based in Spain  
-- 📊 Passionate about data science and business analytics  
-- 🛠️ Building tools & insights to optimize business performance  
-- 💡 Always experimenting with new marketing & data strategies  
-- 📍 Sharing what I learn along the way  
-
-## 🔧 Some fun things I've built recently  
-- 📈 A marketing analytics dashboard for growth tracking  
-- 🤖 Automation scripts to streamline campaign performance  
-- 🔍 Data-driven tools for business intelligence  
-- 🛠️ A secret project coming soon!  
+Full Stack Marketer & BXO Expert based in Córdoba, Spain.
+Passionate about data, business analytics and growth.  
+Building [Fluxcore BXO consulting](https://www.fluxcore.es)
 
 ## 📬 Want to connect? Let’s chat!  
-[🌐 Blog](https://hugolavalle.com/) | [💼 LinkedIn](https://www.linkedin.com/in/hugo-lavalle-b254571a5/)  
+[Substack](https://substack.com/@hugolavalle)) | [LinkedIn](https://www.linkedin.com/in/hugo-lavalle/))  
