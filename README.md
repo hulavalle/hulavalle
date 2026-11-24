@@ -1,5 +1,5 @@
 # Hola! I'm Hugo 👋  
-Full Stack Marketer & BXO Expert based in Córdoba, Spain.
+Full Stack Marketer & BXO Expert based in Andalucia, Spain.
 Passionate about data, business analytics and growth.  
 Building [Fluxcore BXO consulting](https://www.fluxcore.es)
 
